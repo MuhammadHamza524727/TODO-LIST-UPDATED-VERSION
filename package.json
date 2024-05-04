@@ -1,0 +1,23 @@
+{
+  "name": "hmrj22-todos-updated",
+  "version": "2.0.2",
+  "description": "A updated version of Todos application",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "todos-updated": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad hamza",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "hmrj2-todos-updated": "^2.0.0",
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
